@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Adnan Eddeb! 👋
 
-<!--
-**TheTrueNeef/TheTrueNeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Passionate Game Developer & Graphics Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate programmer with over **5 years of experience** in C++, C#, and Java, specializing in **game development** and **graphics programming**. I love building immersive experiences, whether through **game engines**, **interactive simulations**, or **complex AI-driven mechanics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 What I Do
+- 🛠 **Founder & Lead Programmer of Neef Engine** – Developing an open-source **3D game engine** using **C++ and OpenGL**, implementing **shaders, lighting models, and physics calculations** for real-time rendering.
+- 🎨 **Graphics & Rendering** – Optimizing **real-time rendering** performance using **multi-threading** and **smart pointers** to create efficient, visually stunning games.
+- 🏗 **Game Development** – Proficient in **Unity, Unreal Engine, and Godot**, having created **25+ games** featuring fun, engaging game loops.
+- 🌎 **Strategy & Simulation Enthusiast** – A big fan of **Civilization** games, I love working on **AI-driven mechanics** that simulate real-world decision-making and strategy-based gameplay.
+
+## 🏆 Projects
+### 🔥 Neef Engine (Open Source Game Engine)
+- Built using **C++ & OpenGL**.
+- Integrated **Lua scripting** for a developer-friendly experience.
+- Focused on **performance optimization** and **real-time asset management**.
+- Leading a team of **10+ students** in developing an accessible, feature-rich game engine.
+
+### ⚓ Pirate Battles (Unity Game Jam Project)
+- Developed a **3D naval combat game** in under **3 days** for the **UWaterloo Game Jam**.
+- Engineered **realistic ship movement mechanics**, including **sail control** and **rudder-based steering**.
+- Implemented **AI enemy behavior** using advanced **C# algorithms**.
+
+### 🏭 Engineering Overload (UWaterloo Game Jam Project)
+- Collaborated with **two other students** to create a **3D isometric factory simulation game**.
+- Designed a **grid-based building system** with optimized memory usage, reducing load times from **two minutes to ten seconds**.
+- Used **Unity’s post-processing system** for an immersive game feel.
+
+## 📚 Skills & Technologies
+- **Programming Languages:** C++, C#, Java, C, VHDL, JSON, XML.
+- **Game Engines:** Unity, Unreal Engine, Godot.
+- **Graphics & Tools:** OpenGL, Blender, Git, Visual Studio, VSCode.
+- **Version Control & Collaboration:** GitHub, Git, Agile workflows.
+
+## 🔗 Connect with Me!
+- 📧 Email: AdnanEddeb@gmail.com
+- 🌎 Website: [AdnanEddeb.com](https://AdnanEddeb.com)
+- 💼 LinkedIn: [linkedin.com/in/adnaneddeb](https://linkedin.com/in/adnaneddeb)
+- 🚀 GitHub: [github.com/AdnanEddeb](https://github.com/AdnanEddeb)
+
+Let's build something amazing together! 🚀✨
+
