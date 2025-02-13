@@ -18,6 +18,7 @@ I'm a passionate programmer with over **5 years of experience** in C++, C#, and 
 - Leading a team of **10+ students** in developing an accessible, feature-rich game engine.
 
 ### ⚓ Pirate Battles (Unity Game Jam Project)
+[![Watch the video](https://img.youtube.com/vi/rtKp0QtaLEE/maxresdefault.jpg)](https://www.youtube.com/watch?v=rtKp0QtaLEE)
 - Developed a **3D naval combat game** in under **3 days** for the **UWaterloo Game Jam**.
 - Engineered **realistic ship movement mechanics**, including **sail control** and **rudder-based steering**.
 - Implemented **AI enemy behavior** using advanced **C# algorithms**.
