@@ -34,10 +34,8 @@ I'm a passionate programmer with over **5 years of experience** in C++, C#, and 
 - **Version Control & Collaboration:** GitHub, Git, Agile workflows.
 
 ## 🔗 Connect with Me!
-- 📧 Email: AdnanEddeb@gmail.com
 - 🌎 Website: [AdnanEddeb.com](https://AdnanEddeb.com)
 - 💼 LinkedIn: [linkedin.com/in/adnaneddeb](https://linkedin.com/in/adnaneddeb)
-- 🚀 GitHub: [github.com/AdnanEddeb](https://github.com/AdnanEddeb)
 
 Let's build something amazing together! 🚀✨
 
