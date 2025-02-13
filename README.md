@@ -29,7 +29,7 @@ I'm a passionate programmer with over **5 years of experience** in C++, C#, and 
 - Used **Unity’s post-processing system** for an immersive game feel.
 
 ## 📚 Skills & Technologies
-- **Programming Languages:** C++, C#, Java, C, VHDL, JSON, XML.
+- **Programming Languages:** C++, C#, Java, C.
 - **Game Engines:** Unity, Unreal Engine, Godot.
 - **Graphics & Tools:** OpenGL, Blender, Git, Visual Studio, VSCode.
 - **Version Control & Collaboration:** GitHub, Git, Agile workflows.
