@@ -1,6 +1,6 @@
 # Hi, I'm Adnan Eddeb! 👋
 
-## 🚀 Passionate Game Developer & Graphics Enthusiast
+## 🚀 Passionate Game Developer, Computer Engineer & Graphics Enthusiast
 
 I'm a passionate programmer with over **5 years of experience** in C++, C#, and Java, specializing in **game development** and **graphics programming**. I love building immersive experiences, whether through **game engines**, **interactive simulations**, or **complex AI-driven mechanics**.
 
