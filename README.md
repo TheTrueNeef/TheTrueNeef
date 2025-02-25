@@ -1,4 +1,4 @@
-# Hi, I'm Adnan Eddeb! 👋
+# Hi, I'm Adnan Eddeb!
 
 ## 🚀 Passionate Game Developer, Computer Engineer & Graphics Enthusiast
 
